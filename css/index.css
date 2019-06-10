@@ -10,7 +10,7 @@ body{
 }
 
 #banner{
-	background:url('../img/bg3.jpg');
+	background:url('https://github.com/haruka51/adobe/blob/master/img/Bg3.jpg?raw=true');
 	position: relative;
 	height: 800px;
 	background-size: cover;
